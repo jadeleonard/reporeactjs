@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reporeactjs/static/css/main.7f727fff.css",
+    "main.js": "/reporeactjs/static/js/main.6b5d7d19.js",
+    "static/media/carousel2.jpg": "/reporeactjs/static/media/carousel2.0fb8cbdc58c7127e8c32.jpg",
+    "static/media/carousel3.jpg": "/reporeactjs/static/media/carousel3.b9c36f18607042ca5854.jpg",
+    "static/media/carousel1.jpg": "/reporeactjs/static/media/carousel1.0ea46cb15c35f9c0e77e.jpg",
+    "index.html": "/reporeactjs/index.html",
+    "main.7f727fff.css.map": "/reporeactjs/static/css/main.7f727fff.css.map",
+    "main.6b5d7d19.js.map": "/reporeactjs/static/js/main.6b5d7d19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f727fff.css",
+    "static/js/main.6b5d7d19.js"
+  ]
+}
